@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # browserify-demo
 
 > study
@@ -22,3 +23,5 @@ npm test
 ```
 
 For more information see the [docs for vueify](https://github.com/vuejs/vueify).
+
+基于vue-cli 下browserify-demo 的后台管理系统  借鉴 https://github.com/lin-xin/manage-system.git
